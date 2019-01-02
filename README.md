@@ -1,4 +1,5 @@
 # CCI
 Calculation of compound interest (CCI)
 
-Калькулятор расчета сложных процентов по вкладу
+Compound Interest Calculation Calculator
+Text translated by translate.google.com
